@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dziennik samochodowy</string>
+    <string name="date">Data</string>
+    <string name="milage">Przebieg</string>
+    <string name="tanked_liters">Zatankowane Litry</string>
+    <string name="tank_cost">Koszt Tankowania</string>
+    <string name="confirm">Zatwierdź</string>
+    <string name="go_to_tank_form_button">Przejdz do tankowania</string>
+    <string name="make">Marka</string>
+    <string name="model">Model</string>
+    <string name="color">Kolor</string>
+    <string name="make_demo">VolksWagen</string>
+    <string name="model_demo">Golf</string>
+    <string name="color_demo">Czerwony</string>
+    <string name="new_tank">Dolej paliwa</string>
+    <string name="new_colision">Nowa\nKolizja</string>
+    <string name="new_repair">Nowa\nNaprawa</string>
+    <string name="new_car">Nowe auto</string>
+
+</resources>

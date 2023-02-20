@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/purple_500</item>
+
+    </style>
+
+
+    <style name="CommonEdittextStyle">
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:paddingTop">0dp</item>
+
+    </style>
+
+    <style name="labelTextviewStyle">
+        <item name="android:textColor">@color/black</item>
+
+    </style>
+    <style name="CommonButton">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:backgroundTint">@color/button_color</item>
+
+    </style>
+
+    <style name="CommonSwitch" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">@color/switch_color</item>
+        <item name="colorSwitchThumbNormal">@color/switch_color</item>
+        <item name="android:colorForeground">@color/switch_color</item>
+    </style>
+</resources>
